@@ -1,0 +1,364 @@
+@media only screen and (max-width:1600px){
+	.drop-down {
+		top: 110px;
+	}
+	.formScreen-wrap .logo img {
+		max-width: 450px;
+	}
+	.log-1-image {
+		max-width: 160px;
+	}
+	.log-2-image {
+		max-width: 160px;
+	}
+	.logo-wraps img {
+		max-width: 270px;
+	}
+	.container.type-2 {
+		max-width: 1500px;
+		margin: 0 auto;
+	}
+	.coupon-wrapper{
+		padding: 30px;
+	}
+	.coupon-price-text {
+		font-size: 22px;
+	}
+	.coupon-text {
+		font-size: 25px;
+	}
+	.left-menu img {
+		max-width: 40px;
+	}
+	.mobile-menu li a {
+		font-size: 22px;
+	}
+	.mobile-wrap {
+		max-width: 400px;
+	}
+}
+@media only screen and (max-width:1440px){
+	.formScreen-wrap .logo img {
+		max-width: 420px;
+	}
+	.drop-down {
+		position: absolute;
+		right: 1%;
+		top: 112px;
+	}
+}
+@media only screen and (max-width:1366px){
+
+}
+@media only screen and (max-width:1280px){
+
+}
+@media only screen and (max-width:1200px){
+	.log-1-image {
+		display: none;
+	}
+	.log-2-image {
+		display: none;
+	}
+	.coupon-text {
+		font-size: 22px;
+	}
+}
+@media only screen and (max-width:1140px){
+	.coupon-text {
+		font-size: 18px;
+	}
+	.coupon-price-text {
+		font-size: 18px;
+	}
+	.coupons-left img {
+		max-width: 50px;
+	}
+	.logo-wraps img {
+		max-width: 240px;
+	}
+	.coupon-wrapper {
+		padding: 22px;
+	}
+	.graph-wrap .lineChartWrap .chart-padding {
+		padding: 10px 0;
+	}
+	.oil-charts {
+		width: 430px !important;
+		height: 320px !important;
+	}
+	.graph-wrapped {
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+	}
+	.graphTitle {
+		font-size: 22px;
+	}
+}
+@media only screen and (max-width:1024px){
+	.graph-inner-wrap .calendar {
+		padding: 10px 5px 10px 10px;
+	}
+	.select-menu-two .select-btn-two,.select-menu .select-btn,.select-menu-three .select-btn-three {
+		width: 200px;
+	}
+	.oil-charts {
+		width: 400px !important;
+		height: 300px !important;
+	}
+	#horizontalBarChartCanvas {
+		height: 500px !important;
+	}
+
+}
+@media only screen and (max-width:991px){
+	.oil-charts {
+		width: 100% !important;
+	}
+	.coupon-text {
+		font-size: 16px;
+	}
+	.logo-wraps img {
+		max-width: 220px;
+	}	
+}
+@media only screen and (max-width:910px){
+	.coupons-left img {
+		max-width: 40px;
+	}
+	.coupon-wrapper {
+		padding: 20px 0 20px 0;
+	}
+	.coupon-text {
+		font-size: 16px;
+	}
+	.coupon-price-text {
+		font-size: 16px;
+	}
+	.coupons-right {
+		margin-left: 10px;
+	}
+}
+@media only screen and (max-width:767px){
+	.table-coupon tr th {
+		font-size: 14px;
+	}
+	.table-gen-text {
+		font-size: 14px;
+	}
+	.edit-icon i {
+		color: #000;
+		font-size: 16px;
+	}
+	.select-menu-four .options-four {
+		width: 90%;
+	}
+	.select-menu-four {
+		max-width: 100%;
+	}
+	.carret-wrapper {
+		margin-top: 20px;
+	}
+	.formScreen-wrap .logo img {
+		max-width: 380px;
+	}
+	.coupon-wrapper {
+		padding: 30px 0;
+	}
+	.coupons-left img {
+		max-width: 50px;
+	}
+	.coupon-text {
+		font-size: 20px;
+	}
+	.coupon-price-text {
+		font-size: 18px;
+	}
+	.mobile-wrap {
+		max-width: 360px;
+	}
+	.mobile-menu li a {
+		font-size: 20px;
+	}
+	#horizontalBarChartCanvas {
+		height: 350px !important;
+	}
+	.graph-wrap .lineChartWrap .chartWrap.horizontal-wrap {
+		padding: 10px 0px 0px 10px;
+	}
+	.coupon-text {
+		font-size: 17px;
+	}
+	.coupon-price-text {
+		font-size: 16px;
+	}
+	.coupons-left img {
+		max-width: 40px;
+	}
+	.logo-wraps img {
+		max-width: 200px;
+	}
+	.left-menu img {
+		max-width: 35px;
+	}
+	.w-text {
+		font-size: 18px;
+	}
+	.right-menu, .notificationIcon {
+		width: 50px;
+		height: 50px;
+	}
+	.drop-down {
+		position: absolute;
+		right: 3%;
+		top: 100px;
+		max-width: 270px;
+	}
+}
+@media only screen and (max-width:575px){
+	.formScreen-wrap .logo img {
+		max-width: 340px;
+	}
+	.logo-wraps img {
+		max-width: 170px;
+	}
+	.change-password-modal .modal-dialog {
+		max-width: 450px;
+		margin: 0 auto;
+	}
+	.row.coupon-row .col-6 {
+		width: 100%;
+	}
+	.row.coupon-row .col-7 {
+		width: 100%;
+	}
+	.coupon-wrapper {
+		margin-top: 20px;
+	}
+	.col-orange {
+		box-shadow:none;
+	}
+	.change-password-modal .modal-dialog {
+		max-width: 350px;
+		margin: 0 auto;
+	}
+	.pass-text {
+		font-size: 20px;
+	}
+	.cta-btn {
+		font-size: 18px;
+	}
+	.oil-charts {
+		width: 350px !important;
+		height: 280px;
+	}
+	.pie-wrap {
+		width: 320px;
+	}
+	.calendar {
+		width: 150px;
+	}
+	.select-menu-two .select-btn-two, .select-menu .select-btn, .select-menu-three .select-btn-three {
+		width: 180px;
+	}
+	.mobile-wrap {
+		max-width: 320px;
+	}
+	.dollars-wrapper .graphTitle {
+		font-size: 18px;
+	}
+	.term-condition-box {
+		padding: 30px 20px;
+	}
+	.term-condition-box .tagline {
+		font-size: 16px;
+	}
+	.term-condition-box .heading {
+		font-size: 30px;
+		padding-bottom: 10px;
+	}
+	.privacy-policy-sec .top-text-box .heading {
+		font-size: 35px;
+	}
+	.notificationItem {
+		flex-direction: column;
+	}
+	.notificationItem .textBox .date {
+		font-size: 13px;
+	}
+	.notificationItem .imgBox {
+		width: 35px;
+		height: 35px;
+		margin-bottom: 20px;
+	}
+	.notificationItem .imgBox img {
+		max-width: 35px;
+	}
+	.notificationItem .textBox {
+		width: 100%;
+	}
+
+}
+@media only screen and (max-width:385px){
+	.formScreen-wrap .logo img {
+		max-width: 280px;
+	}
+	.fieldBox {
+		padding: 15px;
+	}
+	.white-heading {
+		font-size: 25px !important;
+	}
+	.logo-wraps img {
+		max-width: 150px;
+	}
+	.left-menu img {
+		max-width: 30px;
+	}
+	.right-menu, .notificationIcon {
+		width: 45px;
+		height: 45px;
+	}
+	.w-text {
+		font-size: 16px;
+	}
+	.change-password-modal .modal-dialog {
+		max-width: 280px;
+	}
+	.select-menu-two .select-btn-two, .select-menu .select-btn, .select-menu-three .select-btn-three {
+		width: 160px;
+	}
+	.calendar {
+		width: 120px;
+		font-size: 12px;
+	}
+	.sBtn-text,.sBtn-text-three,.sBtn-text-two {
+		font-size: 12px;
+	}
+	.oil-charts {
+		width: 300px !important;
+		height: 280px;
+	}
+	.pie-wrap {
+		width: 280px;
+	}
+	.mobile-wrap {
+		max-width: 280px;
+	}
+	.mobile-menu li a {
+		font-size: 17px;
+	}
+	.graphTitle {
+		font-size: 20px;
+	}
+	.fieldBox input {
+		font-size: 16px;
+	}
+	.dollars-wrapper .graphTitle {
+		font-size: 16px;
+	}
+	.term-condition-box .agree-buttons .submit {
+		width: 120px;
+	}
+}
